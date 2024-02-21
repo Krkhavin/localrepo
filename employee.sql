@@ -1,2 +1,2 @@
 select * from employees; 
-select * from employees.salary;
+#select * from employees.salary;
